@@ -1,26 +1,24 @@
 # RAPHAEL LEBSA DO PRADO
 
-São Paulo  SP
+:e-mail: [Email](mailto:prado.raphaell@gmail.com) \
+:unlock: [LinkedIn](https://br.linkedin.com/in/raphaellprado)  :link: [Github](https://github.com/raphaellprado) 
 
-:e-mail: [Email](mailto:prado.raphaell@gmail.com)
-:unlock: [LinkedIn](https://br.linkedin.com/in/raphaellprado)
-
-:male_sign:  Brasileiro  Solteiro  :sagittarius:  :computer:
+:male_sign:	 :brazil:  :couplekiss_man_woman:  :sagittarius:  :computer:
 
 **Disponibilidade para viagens e mudança**
-
-Objetivo: **Transicão de carreira**
 
 ---
 
 ### Resumo de Qualificações
 
-Carreira desenvolvida na área jurídica, com ampla experiência em órgãos públicos, políticas públicas, contratos, licitações, direito administrativo e legislações específicas.
+Advogado com vasta experiência em órgãos públicos, políticas públicas, contratos, licitações, direito administrativo, penal e legislações específicas. \
+Especialista em advocacy e representação de empresas e órgãos públicos na formação de políticas. \
+Líder colaborativo com histórico comprovado de sucesso. \
+:man_in_tuxedo: Membro ativo da Comissão sobre a Lei Geral de Proteção de Dados (LGPD) na Ordem dos Advogados. :man_in_tuxedo:
 
-Entusiasta das tecnologias, programador em :snake: Python, HTML/CSS e C++
-Estudante de Cybersegurança 
-Gestor de pessoas
-Eterno aprendiz :ladder:
+Entusiasta das tecnologias, programador em Python, HTML/CSS, Cibersegurança
+
+:ladder: Eterno aprendiz :hammer::hammer::hammer:
 
 ---
 
@@ -28,20 +26,34 @@ Eterno aprendiz :ladder:
 
 * Bacharel em Direito
   *Faculdades Metropolitanas Unidas*
+
+#### Cursos
+
+* ##### Dados: 
+  *Google Data Studio Expert* \
+  *Power BI para Data Science e Analytics* \
+  *Python para Data Science e Analytics* \
+  *SQL para Data Science e Analytics*
+
+* ##### Frontend: 
+  *Desenvolvimento Frontend com Angular*
+
+* ##### Backend: 
+  *Potência Tech iFood - Desenvolvimento de Jogos* \
+  *Bootcamp Potência Tech iFood - Programação do Zero* \
+  *Santander Bootcamp 2023 - Ciência de Dados com Python*
+
+* ##### Cibersegurança: 
+  *Técnicas de Invasão (Fundamentos em Cibersegurança Ofensiva)* 
+
+* ##### Nuvem: 
+  *LocalizaLabs - Descubra a Nuvem AWS* \
+  *Trybe - Bootcamp: IA generativa com AWS*
+
 ---
 
-
-### Experiência Profissional
-
-###### Atualmente
-
-Programador em Python com aplicações desenvolvidas visando facilitar a vida das pessoas. Desenvolvedor de sites e estudante de ciências de dados.
-
-Advogado e consultor jurídico em processos na área ambiental, criminal, civil, contratos públicos, administrativo e eleitoral, atuando sobre demanda.
-
-###### Outros trabalhos:
 ### Idiomas
 
-:us: Inglês – Avançado
-:fr: Francês - Básico
-:brazil: Português - Fluente
+:us: Avançado
+:fr: Básico
+:brazil: Fluente
